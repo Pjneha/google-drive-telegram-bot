@@ -1,13 +1,13 @@
 class config:
     BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    APP_ID = "3459029"
+    API_HASH = "0f3219014abd38c626187bbb04082c5f"
+    DATABASE_URL = "mongodb+srv://qualitymoviesandseries:DIvpeQYhkUdY3gyL@cluster0.vy1bou7.mongodb.net/?retryWrites=true&w=majority"
+    SUDO_USERS = "930652019" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "-1001818805210"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "239043897093-2rac7nddjeukh193ti2fnj3nprr2o9gu.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
